@@ -7,7 +7,7 @@ This research was conducted at the University of Michigan Medical School, Ann Ar
 
 ## Developers 
 - Yingtong Liu
-- Lauren Austin
+- Jamie Ngai
 - Oliver He 
 
 ## Citation

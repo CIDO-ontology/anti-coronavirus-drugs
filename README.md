@@ -40,6 +40,9 @@ Our collaborators also include:
 - **CIDO representation of anti-coronavirus drugs and related information**: We ...  
 
 - **CIDO-based bioinformatics analyses**: We have performed many bioinformatics analysis on the drugs that are represented in CIDO. 
+  - ChBI  (Zhigang Wang)
+  - Wallace ... 
+  - Pathways ... 
 
 ## Citation
 Liu Y, Chan W, Wang Z, Hur J, Xie J, Yu H, He Y. Ontological and bioinformatic analysis of anti-coronavirus drugs and their Implication for drug repurposing against COVID-19. Preprints. 2020, 2020030413 (doi: 10.20944/preprints202003.0413.v1). 

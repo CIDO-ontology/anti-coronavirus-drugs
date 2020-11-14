@@ -29,6 +29,8 @@ Our collaborators also include:
 - Drug mechanisms are classified into three categories: inhibition of entry, inhibition of virus replication, and modulation of immune responses. 
 
 ## Results
+
+The 
 - **Annotated chemical and biological drugs** are stored in three files in our GitHub folder: 
   - https://github.com/CIDO-ontology/anti-coronavirus-drugs/blob/master/docs/Anti-coronavirus-chemical-drugs-with_ontoIDs.xlsx; 
   - https://github.com/CIDO-ontology/anti-coronavirus-drugs/blob/master/docs/Anti-coronavirus-chemical-drugs-without_ontoID.xlsx; 

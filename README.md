@@ -1,11 +1,11 @@
 # Anti-coronavirus Drugs
 Systematic annotation, ontology representation, and analysis of anti-coronavirus drugs
 
-Our systematic literature collection and annotation identified 106 chemical drugs and 31 antibodies effective against the infection of at least one human coronavirus (including SARS-CoV, SAR-CoV-2, and MERS-CoV) in vitro or in vivo in an experimental or clinical setting. A total of 168 drug protein targets were identified, and 128 biological processes involving the drug targets were significantly enriched based on a Gene Ontology (GO) enrichment analysis. The Coronavirus Infectious Disease Ontology (CIDO) was used as an ontological platform to represent the anti-coronaviral drugs, active chemical compounds of these drugs, drug targets, biological processes, viruses, and the relations among these entities. In addition to new term generation, CIDO also reused many terms from existing ontologies and developed new relations and axioms to semantically represented our annotated knowledge. 
+To successfully fight against future coronavirus infections, intensive studies have been undertaken to identify effective and safe drugs. Many drugs have been identified to be effective against the infection of human coronavirus (including SARS-CoV, SAR-CoV-2, and MERS-CoV) in vitro or in vivo in an experimental or clinical setting. A systematic collection, annotation, representation, and analysis of these drugs, including chemical drugs and biological antibodies, would help us better understand the mechanisms under these drugs and facilitate future rational design. With this rationale in mind, we have conducted semi-manual and manual literature collection and annotation of these drugs and perform systematic study on them.  
 
-The CIDO also provides a platform for our systematic analysis of all the anti-coronavirus drugs. Ontology-based methods are then further used to analyze the  drug results. 
+The Coronavirus Infectious Disease Ontology (CIDO) has been used as an ontological platform to represent the anti-coronaviral drugs, active chemical compounds of these drugs, drug targets, biological processes, viruses, and the relations among these entities. For drug study, CIDO reuses many terms from existing ontologies including ChEBI, DrON, NDF-RT, and GO, and also developed new relations and axioms to semantically link and represent different entities together for integrative representation and analysis. We have also conducted many CIDO-based systematic analysis on our manually annotated anti-coronavirus drugs. 
 
-This research was conducted at the University of Michigan Medical School, Ann Arbor, MI, USA.
+This research was primarily conducted at the University of Michigan Medical School, Ann Arbor, MI, USA.
 
 ## Developers and collaborators 
 - Yingtong Liu
@@ -21,6 +21,7 @@ This research was conducted at the University of Michigan Medical School, Ann Ar
 - The sheet for antibody includes name, antigen, in vitro or in vivo, type(monoclonal, or polyclonal), targeted vrius and PMIDs. 
 
 ## Analysis results
+- Our systematic literature collection and annotation identified 106 chemical drugs and 31 antibodies effective against the infection of at least one human coronavirus (including SARS-CoV, SAR-CoV-2, and MERS-CoV) in vitro or in vivo in an experimental or clinical setting. A total of 168 drug protein targets were identified, and 128 biological processes involving the drug targets were significantly enriched based on a Gene Ontology (GO) enrichment analysis. 
 - These 152 anti-coronavirus drugs include 106 active drug compounds that can be mapped to at least one of the three ontologies: ChEBI, DrON, and NDF-RT, 15 drugs that do not have any record in these ontologies, and 31 biological drugs (which are all monoclonal or polyclonal antibodies) specifically targeting on coronavirus proteins (e.g., S protein).
 - Our study found that 32 drugs inhibiting viral entry to host cells, 50 drugs that inhibit viral replications inside host cells, and 10 drugs modulating host immune responses to coronavirus infection. 
  

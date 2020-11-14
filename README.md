@@ -9,18 +9,19 @@ This research has been primarily conducted at the University of Michigan Medical
 
 ## Developers and collaborators 
 
-Our research team include the following developers and collaborators:  
+Our research team include the following developers and collaborators at the University of Michigan:  
 - Yingtong Liu
-- Junguk Hur
 - Wallace K.B. Chan
-- Zhigang Wang
-- Jiangan Xie
 - Duxin Sun
 - Samuel Handelman 
 - Jonathan Sexton
-- Hong Yu 
-- Jamie Ngai
-- Oliver He 
+- Yongqun "Oliver" He 
+
+Our collaborators also include: 
+- Junguk Hur, University of North Dakota School of Medicine and Health Sciences, Grand Forks, ND 58202, USA. 
+- Zhigang Wang, Department of Biomedical Engineering, Institute of Basic Medical Sciences and School of Basic Medicine, Peking Union Medical College and Chinese Academy of Medical Sciences, Beijing 100005, China 
+- Jiangan Xie, School of Bioinformatics, Chongqing University of Posts and Telecommunications, Chongqing 400065, China.
+- Hong Yu, Department of Respiratory and Critical Care Medicine, Guizhou Province People’s Hospital; Department of Basic Medicine, Guizhou University Medical College, Guiyang, Guizhou 550025, China. 
 
 ## Our manually annotated data   
 - The file includes one sheet for all drugs with at least one ontology ID (ChEBI, NDF-RT, or DrON), one sheet for drugs without ontology ID, and one sheet for antibody. 

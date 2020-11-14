@@ -5,10 +5,20 @@ To successfully fight against future coronavirus infections, intensive studies h
 
 The Coronavirus Infectious Disease Ontology (CIDO) has been used as an ontological platform to represent the anti-coronaviral drugs, active chemical compounds of these drugs, drug targets, biological processes, viruses, and the relations among these entities. For drug study, CIDO reuses many terms from existing ontologies including ChEBI, DrON, NDF-RT, and GO, and also developed new relations and axioms to semantically link and represent different entities together for integrative representation and analysis. We have also conducted many CIDO-based systematic analysis on our manually annotated anti-coronavirus drugs. 
 
-This research was primarily conducted at the University of Michigan Medical School, Ann Arbor, MI, USA.
+This research has been primarily conducted at the University of Michigan Medical School, Ann Arbor, MI, USA.
 
 ## Developers and collaborators 
+
+Our research team include the following developers and collaborators:  
 - Yingtong Liu
+- Junguk Hur
+- Wallace K.B. Chan
+- Zhigang Wang
+- Jiangan Xie
+- Duxin Sun
+- Samuel Handelman 
+- Jonathan Sexton
+- Hong Yu 
 - Jamie Ngai
 - Oliver He 
 

@@ -23,12 +23,12 @@ Our collaborators also include:
 - Jiangan Xie, School of Bioinformatics, Chongqing University of Posts and Telecommunications, Chongqing 400065, China.
 - Hong Yu, Department of Respiratory and Critical Care Medicine, Guizhou Province People’s Hospital; Department of Basic Medicine, Guizhou University Medical College, Guiyang, Guizhou 550025, China. 
 
-## Anti-coronavirus Drug Annotation     
+## Anti-coronavirus Drug Annotation  
 - The annotated drugs are for the targeted viruses: SARS-CoV (cause of SARS), MERS-CoV (cause of MERS), and SARS-2-CoV (cause of COVID-19). 
 - Peer-reviewed articles in PubMed, Google Scholar, and PubMed Central literature databases were searched using relevant keywords. The keywords used in our search includinge: coronavirus, SARS, MERS, CoVID-19, drug, therapy and medicine.Chemical or biological drugs that exhibited anti-coronavirus properties in lab settings were collected from research papers published. To be included in our list, each drug was required to demonstrate a significant level of viral inhibition in vitro or in vivo. For in vitro studies, all drugs exhibiting some extent of inhibition (EC50 > 0) are collected. Drugs in clinical studies showing statistical significance (≤ 0.05) are included. For each identified drug, we recorded its targeted virus, mechanism, experimental model, assay, and paper citation(s). Antibodies mentioned in this literature were also recorded with their types and antigens.
 - In our annonation, drug mechanisms are classified into three categories: inhibition of entry, inhibition of virus replication, and modulation of immune responses. 
 
-## Annotated Results
+## Results of Anti-coronavirus Drug Annotation 
 
 - **Annotated chemical and biological drugs** are stored in three files in our GitHub folder: 
   - https://github.com/CIDO-ontology/anti-coronavirus-drugs/blob/master/docs/Anti-coronavirus-chemical-drugs-with_ontoIDs.xlsx; 
@@ -45,7 +45,7 @@ A total of 164 unique drug human protein targets were identified interact with 7
 - **Biological processes involving the drug targets**: are stored in the file: https://github.com/CIDO-ontology/anti-coronavirus-drugs/blob/master/docs/Protein_DAVID_GOTERM_BP.xlsx
 126 biological processes involving the 161 drug targets were significantly enriched based on a Gene Ontology (GO) enrichment analysis with FDR values smaller than 0.005. The proteins were used in the GO analysis hosted by DAVID Bioinformatics Resources (https://david.ncifcrf.gov/home.jsp). 
 
-## CIDO Ontology Representation and Analysis 
+## CIDO Ontology Representation and Analysis of Anti-coronavirus Drugs
 
 - **CIDO representation of anti-coronavirus drugs and related information**: The Coronavirus Infectious Disease Ontology (CIDO) is used as the platform to systematically represent the anticoronavirus drugs and related information. The detailed information about the CIDO representation can be found in our preprint paper: https://www.preprints.org/manuscript/202003.0413/v1.  
 

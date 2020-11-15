@@ -1,0 +1,34 @@
+﻿Antibody name,Antigen,In vitro/vivo,Type,Targeted virus,PMID
+S3.1,spike protein,in vitro/ in vivo mouse,monoclonal,SARS-CoV,"15247913, 17620608"
+CR3014,spike protein,in vitro/in vivo ferrets,monoclonal,SARS-CoV,"15220038, 15650189, 17620608"
+S230.15,S1 RBD*,in vitro,monoclonal,SARS-CoV,17620608
+m396,S1 RBD,in vitro,monoclonal,SARS-CoV,17620608
+80R,S1 ,in vitro,monoclonal,SARS-CoV,"14983044, 17620608"
+201,S1 RBD,in vitro,monoclonal,SARS-CoV,"15655773, 17620608"
+scFv B1,S2,in vitro,monoclonal,SARS-CoV,"15939399, 17620608"
+m332,spike protein,in vivo (rabbits),monoclonal,MERS-CoV,27344959
+311B-N1,spike protein,in vivo (rhesus macaques),monoclonal,MERS-CoV,27344959
+REGN3051,spike protein,In vitro/in vivo (mouse),monoclonal,MERS-CoV,26315600
+REGN3048,spike protein,In vitro/in vivo (mouse),monoclonal,MERS-CoV,26315600
+4C2,S1 RBD*,in vitro/in vivo (mouse),monoclonal,MERS-CoV,"28855003, 26391698"
+Mersmab,S1 RBD,In vitro,monoclonal,MERS-CoV,28855003
+m336,S1 RBD,"In vitro/in vivo (mouse, rabbit)",monoclonal,MERS-CoV,28855003
+m337,S1 RBD,In vitro,monoclonal,MERS-CoV,28855003
+m338,S1 RBD,In vitro,monoclonal,MERS-CoV,28855003
+MERS-4,S1 RBD,In vitro,monoclonal,MERS-CoV,28855003
+MERS-27,S1 RBD,In vitro,monoclonal,MERS-CoV,28855003
+hMS-1,S1 RBD,In vitro/in vivo (mouse),monoclonal,MERS-CoV,28855003
+LCA60,S1 RBD,In vitro/in vivo (mouse),monoclonal,MERS-CoV,28855003
+3B11-N,S1 RBD,In vitro/in vivo (rhesus monkeys),monoclonal,MERS-CoV,28855003
+2E6',S1 RBD,in vitro,polyclonal,MERS-CoV,26391698
+2F9,DPP4,In vitro,monoclonal,MERS-CoV,28855003
+1F7,DPP4,In vitro,monoclonal,MERS-CoV,28855003
+YS110,DPP4,In vitro,monoclonal,MERS-CoV,"28855003, 26315600"
+anti-CD26,DPP4,in vitro,polyclonal,MERS-CoV,26315600
+47D11,Spike protein,In vitro,monoclonal,SARS-2-CoV,32366817
+S309,Spike protein,In vitro,monoclonal,SARS-2-CoV,32422645
+CB6,RBD,In vitro/ in vivo (rhesus monkeys),monoclonal,SARS-2-CoV,32454512
+CA1,ACE2/S protein,In vitro,monoclonal,SARS-2-CoV,32454512
+4A8,N terminal domain (NTD) of the S protein,In vitro,monoclonal,SARS-2-CoV,32571838
+,,,,,
+*RBD: spike receptor-binding domain. ,,,,,

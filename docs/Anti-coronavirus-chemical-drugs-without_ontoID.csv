@@ -1,0 +1,15 @@
+Drug name ,Virus,CHEBI ID ,NDF-RT ID,DrON ID,PubChem ID,pubmed ID ,Mechanism,stage ,model ,Note
+Amodiaquine dihydrochloride dihydrate,"SARS-CoV, MERS-CoV",,,,,24841273,Antiparasitic agent,in vitro,Vero-E6 cells,
+salinomycin sodium,MERS-CoV,,,,,24841273,ion channel inhibitors,in vitro,Vero-E6 cells,
+niclosamide anilide,SARS-CoV,,,,,16837072,Phe–Phe dipeptide inhibitor were found to inhibit the main protease and inhibited virus replication  ,in vitro,Vero cells,
+Bananin,SARS-CoV,,,,,16837072,inhibit both the ATPase and helicase activity ,in vitro,FRhK-4 cell ,
+Ginsenoside-Rb1,SARS-CoV,,,,,15226499,preventing viral entry in treating HIV ,in vitro,Vero-E6 cells,
+monensin sodium,"SARS-CoV, MERS-CoV, CoVs (HCoV-OC43)",,,,,30918074,,in vitro,"BHK-21,Vero E6, LLC-MK2, or DBT",
+F2124–0890,"SARS-CoV, MERS-CoV",,,,,28855003,inhibitor of MERS-CoV and SARS-CoV PLpro activity,in vitro,check activity in chemical setting ,
+K22,"SARS-CoV, MERS-CoV",,,,,26868298,target membrane-bound CoV RNA synthesis inhibit DMV formation of a broad range of human and animal CoVs,,,
+GRL0617,SARS-CoV,,,,,"18852458, 26868298",Inhibitors of PLpro activity,in vitro,check activity in chemical setting ,
+N3,"SARS-CoV, MERS-CoV, HCoV-229E, HCoV-NL63 and animal CoVs",,,,,26868298,Inhibitors of 3CLpro activity,,,
+GRL-001,CoV mutants ,,,,,"25100843 , 26868298",Inhibitors of 3CLpro activity,in vitro,DBT cell,
+CE5,"SARS-CoV, MERS-CoV, HCoV-229E, HCoV-NL63 and animal CoVs",,,,,26868298,Inhibitors of 3CLpro activity,,,
+alisporivir,"SARS-CoV, MERS-CoV",,,,,27840112,"inhibit the replication of four different coronaviruses, including MERS- and SARS-coronavirus.",in vitro,Huh7 cell,uneffective in SARS mouse model
+NAAE,SARS-CoV,,,,,26868298,Inhibit viral entry,,,

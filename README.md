@@ -39,11 +39,9 @@ The first file includes chemical drugs with at least one ontology ID from three 
 
 Summary of the annotated chemical and biological drugs (as of 11/11/2020): Our systematic literature collection and annotation identified 106 chemical drugs and 31 antibodies effective against the infection of at least one human coronavirus (including SARS-CoV, SAR-CoV-2, and MERS-CoV) in vitro or in vivo in an experimental or clinical setting. Our study found that 32 drugs inhibiting viral entry to host cells, 50 drugs that inhibit viral replications inside host cells, and 10 drugs modulating host immune responses to coronavirus infection. The details about these drugs can be identified from three Excel files as described above.     
 
-- **Drug protein targets** are stored in the file: https://github.com/CIDO-ontology/anti-coronavirus-drugs/blob/master/docs/drug_protein_interaction.xlsx
-A total of 164 unique drug human protein targets were identified interact with 70 chemical drugs having ChEBI IDs. And the how chemical drugs act on the proteins also recorded. All the information is extracted from Drug Bank. 
+- **Drug protein targets** are stored in the file: https://github.com/CIDO-ontology/anti-coronavirus-drugs/blob/master/docs/drug_protein_interaction.xlsx. A total of 164 unique drug human protein targets were identified to interact with 70 chemical drugs having ChEBI IDs. How chemical drugs act on the proteins also recorded. The data resource is primarily the DrugBank.  
 
-- **Biological processes involving the drug targets**: are stored in the file: https://github.com/CIDO-ontology/anti-coronavirus-drugs/blob/master/docs/Protein_DAVID_GOTERM_BP.xlsx
-126 biological processes involving the 161 drug targets were significantly enriched based on a Gene Ontology (GO) enrichment analysis with FDR values smaller than 0.005. The proteins were used in the GO analysis hosted by DAVID Bioinformatics Resources (https://david.ncifcrf.gov/home.jsp). 
+- **Biological processes involving the drug targets**: are stored in the file: https://github.com/CIDO-ontology/anti-coronavirus-drugs/blob/master/docs/Protein_DAVID_GOTERM_BP.xlsx. This file includes a total of 126 biological processes involving the 161 drug targets, which were significantly enriched based on a Gene Ontology (GO) enrichment analysis with FDR p-values smaller than 0.005. The proteins were used in the GO analysis hosted by [DAVID Bioinformatics Resources](https://david.ncifcrf.gov/home.jsp).  
 
 ## CIDO Ontology Representation and Analysis of Anti-coronavirus Drugs
 

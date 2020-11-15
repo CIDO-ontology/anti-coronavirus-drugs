@@ -47,7 +47,7 @@ A total of 164 unique drug human protein targets were identified interact with 7
 
 ## CIDO Ontology Representation and Analysis of Anti-coronavirus Drugs
 
-- **CIDO representation of anti-coronavirus drugs and related information**: The Coronavirus Infectious Disease Ontology (CIDO) is used as the platform to systematically represent the anticoronavirus drugs and related information. The detailed information about the CIDO representation can be found in our preprint paper: https://www.preprints.org/manuscript/202003.0413/v1.  
+- **CIDO representation of anti-coronavirus drugs and related information**: The Coronavirus Infectious Disease Ontology (CIDO) is used as the platform to systematically represent the anticoronavirus drugs and related information. The detailed information about the CIDO representation can be found in our publication: [doi: 10.20944/preprints202003.0413.v1](https://www.preprints.org/manuscript/202003.0413/v1). 
 
 - **CIDO-based bioinformatics analyses**: We have also performed many bioinformatics analysis on the drugs that are represented in CIDO. 
   - Clustering of anti-coronavirus drugs using ontology-based semantic similarity analysis   
@@ -55,8 +55,8 @@ A total of 164 unique drug human protein targets were identified interact with 7
   - PCA analysis of physicochemical properties of anti-coronavirus drugs  
   - Analysis of drug-target network. 
 
-The analysis results can be found at our preprint paper: https://www.preprints.org/manuscript/202003.0413/v1.   
+The analysis results can be found at our publication: [doi: 10.20944/preprints202003.0413.v1](https://www.preprints.org/manuscript/202003.0413/v1).  
 
 ## Citation
-Liu Y, Chan W, Wang Z, Hur J, Xie J, Yu H, He Y. Ontological and bioinformatic analysis of anti-coronavirus drugs and their Implication for drug repurposing against COVID-19. Preprints. 2020, 2020030413 ([doi: 10.20944/preprints202003.0413.v1](https://www.preprints.org/manuscript/202003.0413/v1)).
+Liu Y, Chan W, Wang Z, Hur J, Xie J, Yu H, He Y. Ontological and bioinformatic analysis of anti-coronavirus drugs and their Implication for drug repurposing against COVID-19. Preprints. 2020, 2020030413 ([doi: 10.20944/preprints202003.0413.v1](https://www.preprints.org/manuscript/202003.0413/v1)). URL: https://www.preprints.org/manuscript/202003.0413/v1. 
 

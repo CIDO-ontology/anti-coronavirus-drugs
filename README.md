@@ -41,7 +41,7 @@ Summary of the annotated chemical and biological drugs (as of 11/11/2020): Our s
 
 - **Drug protein targets** are stored in the file: https://github.com/CIDO-ontology/anti-coronavirus-drugs/blob/master/docs/drug_protein_interaction.xlsx. A total of 164 unique drug human protein targets were identified to interact with 70 chemical drugs having ChEBI IDs. How chemical drugs act on the proteins also recorded. The data resource is primarily the DrugBank.  
 
-- **Biological processes involving the drug targets**: are stored in the file: https://github.com/CIDO-ontology/anti-coronavirus-drugs/blob/master/docs/Protein_DAVID_GOTERM_BP.xlsx. This file includes a total of 126 biological processes involving the 161 drug targets, which were significantly enriched based on a Gene Ontology (GO) enrichment analysis with FDR p-values smaller than 0.05. The proteins were used in the GO analysis hosted by [DAVID Bioinformatics Resources](https://david.ncifcrf.gov/home.jsp).  
+- **Biological processes involving the drug targets**: are stored in the file: https://github.com/CIDO-ontology/anti-coronavirus-drugs/blob/master/docs/Protein_DAVID_GOTERM_BP.xlsx. This file includes a total of 137 biological processes involving the 147 drug protein targets in human, which were significantly enriched based on a Gene Ontology (GO) enrichment analysis with FDR adjusted p-values smaller than 0.05. The proteins were used in the GO analysis hosted by [DAVID Bioinformatics Resources](https://david.ncifcrf.gov/home.jsp).  
 
 ## CIDO Ontology Representation and Analysis of Anti-coronavirus Drugs
 

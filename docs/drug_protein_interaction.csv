@@ -161,7 +161,7 @@ NAFAMOSTAT,CHEBI_135466,P00748,PR_P00748,Inhibitor,https://www.drugbank.ca/drugs
 NAFAMOSTAT,CHEBI_135466,P05362,PR_P05362,Inhibitor,https://www.drugbank.ca/drugs/DB12598
 NAFAMOSTAT,CHEBI_135466,P06870,PR_P06870,Inhibitor,https://www.drugbank.ca/drugs/DB12598
 NAFAMOSTAT,CHEBI_135466,P07477,PR_P07477,Inhibitor,https://www.drugbank.ca/drugs/DB12598
-NELFINAVIR,CHEBI_7496,Q72874,PR_O09807,Inhibitor,https://www.drugbank.ca/drugs/DB00220
+NELFINAVIR,CHEBI_7496,Q72874,PR_P03366,Inhibitor,https://www.drugbank.ca/drugs/DB00220
 NILOTINIB,CHEBI_52172,P00519,PR_P00519,Inhibitor,https://www.drugbank.ca/drugs/DB04868
 NILOTINIB,CHEBI_52172,P10721,PR_P10721,Antagonist,https://www.drugbank.ca/drugs/DB04868
 NITAZOXANIDE,CHEBI_94807,P94692,PR_P94692,Inhibitor,https://www.drugbank.ca/drugs/DB00507
